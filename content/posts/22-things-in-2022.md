@@ -5,6 +5,7 @@ draft: false
 ---
 
 
-# 22 Things in 2022
-
 This is a list of things I learned in 2022.
+
+
+
