@@ -1,7 +1,8 @@
 ---
 title: "Terminal Tricks"
 date: 2020-10-31T22:03:18+05:30
-draft: true
+draft: false
+summary: "These are some of terminal tricks I know"
 ---
 
 ## CD = Change Directory

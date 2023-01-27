@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://blank1729.github.io/blog"
 languageCode = "en-us"
-title = ""
+title = "An idiot's blog"
 theme = "ink-free"
 paginate = 5
 
