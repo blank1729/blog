@@ -1,8 +1,6 @@
 ---
-title: "about"
-date: 2022-12-05T16:01:02+05:30
-draft: true
+title: "About me"
+draft: false
 ---
 
-
-# This is a page about me
+Welcome to my blog. That's all for now

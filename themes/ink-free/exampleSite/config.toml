@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = ""
+title = "Ink-Free"
 theme = "ink-free"
 paginate = 5
 
@@ -12,7 +12,7 @@ copyright = "© Copyright notice"
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "An idiot's blog"
+	subtitle = "Crisp, minimal, privacy-conscious personal [blog theme for Hugo](https://github.com/chollinger93/ink-free)"
 
 	# Optional 64x64 avatar image.
 	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -20,7 +20,7 @@ copyright = "© Copyright notice"
 	featherIconsCDN = false
 
 	# Site color - dark/light/auto
-	mode = "dark"
+	mode = "auto"
 
 	# Enable a table of contents
 	toc = true
@@ -48,29 +48,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Notes"
-url = "/notes"
+name = "All posts"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 5
-
-[[menu.main]]
-name = "Summaries"
-url = "/summaries"
-weight = 3
+weight = 4
 
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/blank1729/"
+url = "https://github.com/chollinger93/"
 
 [[params.social]]
 name = "RSS"
